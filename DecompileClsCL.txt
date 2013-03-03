@@ -1,1 +1,0 @@
-./Release/AppStart.o ./Release/ConstValuesConst.o ./Release/FileUt.o ./Release/GlobalValues.o ./Release/Param.o ./Release/StringUt.o   
